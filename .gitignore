@@ -1,0 +1,16 @@
+# OpenOffice Source Code
+/openoffice/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Taskmaster
+.taskmaster/logs/
+.taskmaster/reports/
+.taskmaster/tasks/
+.taskmaster/state.json
+
+# OS-specific
+.DS_Store
