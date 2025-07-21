@@ -11,6 +11,7 @@
 .taskmaster/reports/
 .taskmaster/tasks/
 .taskmaster/state.json
+.cursor/mcp.json
 
 # OS-specific
 .DS_Store
